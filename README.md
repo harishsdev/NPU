@@ -3,6 +3,9 @@
 sudo apt install python3-pip
 
 
+harish@DESKTOP-JCC3N1V:/mnt/c/Users/haris/Downloads/p$ pip3 install -r rknn-toolkit2/rknn-toolkit2/packages/requirements_cp310-1.6.0.txt
+
+
 Network connection test:-
 https://www.youtube.com/watch?v=9rojGc7OKao
 
