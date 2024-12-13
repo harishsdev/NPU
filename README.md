@@ -7,7 +7,7 @@ NPU: 0.5TOPS, supports int4, int8 and int16
 Memory: 64MB DDR2
 
 
-SETUPSTEPS:-
+SETUP STEPS:-
 ------------
 sudo apt install python3-pip
 
