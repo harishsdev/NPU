@@ -1,5 +1,14 @@
 # NPU
 
+NPU SPECIFICATIONS:-
+
+Processor: Cortex A7@1.2GHz + RISC-V
+NPU: 0.5TOPS, supports int4, int8 and int16
+Memory: 64MB DDR2
+
+
+SETUPSTEPS:-
+------------
 sudo apt install python3-pip
 
 
