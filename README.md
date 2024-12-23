@@ -2,9 +2,20 @@
 
 NPU SPECIFICATIONS:-
 
+RV1103 specs:-
+----------------
 Processor: Cortex A7@1.2GHz + RISC-V
 NPU: 0.5TOPS, supports int4, int8 and int16
 Memory: 64MB DDR2
+
+RK3588 Specs:-
+--------------
+
+
+*6TOPS@int8
+*support int4/int8/FP16/BF16/TF32
+*support deep learning  frameworks :-TensorFlow,Caffe,
+     Tflite,Pytorch,Onnx NN,Android NN,etc
 
 
 SETUP STEPS:-
