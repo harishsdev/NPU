@@ -48,4 +48,5 @@ https://www.youtube.com/watch?v=N_l7rZeAxKs
 
 https://www.youtube.com/watch?v=DMWD7wfhgNY&t=102s
 
-
+RK3588 details:-
+-----------------
