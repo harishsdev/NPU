@@ -50,3 +50,9 @@ https://www.youtube.com/watch?v=DMWD7wfhgNY&t=102s
 
 RK3588 details:-
 -----------------
+
+
+
+installation sucefull with 
+
+pip install rknn-toolkit2 -i https://mirrors.aliyun.com/pypi/simple/
