@@ -60,3 +60,10 @@ pip install rknn-toolkit2 -i https://mirrors.aliyun.com/pypi/simple/
 
 
 (rknn) ubuntu@DESKTOP-MLTHVPE:/mnt/c/Users/haris/Downloads/p/Projects/p/rknn-toolkit2$ pip install -r rknn-toolkit2/packages/requirements_cp39-1.6.0.txt
+
+
+
+
+ADB is not working
+
+winscp is successfule with transfering data from pc to target board
