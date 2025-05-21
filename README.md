@@ -67,3 +67,7 @@ pip install rknn-toolkit2 -i https://mirrors.aliyun.com/pypi/simple/
 ADB is not working
 
 winscp is successfule with transfering data from pc to target board
+
+
+wsl --shutdown Ubuntu
+
