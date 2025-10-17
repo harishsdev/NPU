@@ -71,3 +71,7 @@ winscp is successfule with transfering data from pc to target board
 
 wsl --shutdown Ubuntu
 
+g++ set using windows:- setx PATH "%PATH%;D:\mingw64\bin"
+
+
+
