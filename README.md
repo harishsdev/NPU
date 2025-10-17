@@ -98,6 +98,10 @@ tasks.json
   ]
 }
 
+Enabling intellisense:-
+
+ "intelliSenseMode": "gcc-x64",
+
 
 
 
