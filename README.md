@@ -105,5 +105,7 @@ Enabling intellisense:-
 
 
 ~/miniconda3/bin/conda init bash
+
 source ~/.bashrc
+
 conda --version
