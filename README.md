@@ -118,12 +118,31 @@ rkllm:-pip install --force-reinstall "setuptools<81"
 A good progression is:
 
 Symmetric INT8 quantization
+
 Asymmetric INT8 quantization
+
+
 Per-channel quantization
+
+
 Per-group quantization
+
 SmoothQuant
+
+
+
 GPTQ
+
+
+
 AWQ
+
+
 AIMET PTQ
+
+
+
 FP8 quantization
+
+
 NF4 / QLoRA quantization
