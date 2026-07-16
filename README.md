@@ -109,3 +109,5 @@ Enabling intellisense:-
 source ~/.bashrc
 
 conda --version
+
+rkllm:-pip install --force-reinstall "setuptools<81"
