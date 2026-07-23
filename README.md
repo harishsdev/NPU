@@ -146,3 +146,12 @@ FP8 quantization
 
 
 NF4 / QLoRA quantization
+
+
+
+
+Resnet:-
+
+# RK3588 Benchmark
+
+![Benchmark Results](images/benchmark.png)
