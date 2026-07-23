@@ -1,0 +1,28 @@
+
+
+step 1:-
+
+run in x86 ubuntu
+
+export_resnet_onnx.py
+
+
+step 2:-
+
+run in x86 ubuntu
+
+test_in_x86.py
+
+step 3:-
+
+run in x86 ubuntu
+
+export_resnet_to_rknn.py
+
+
+step 4:-
+
+
+rknn_test.py
+
+
