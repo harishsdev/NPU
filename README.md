@@ -154,4 +154,4 @@ Resnet:-
 
 # RK3588 Benchmark
 
-![Benchmark Results](images/benchmark.png)
+![Benchmark Results](images/resnet.png)
